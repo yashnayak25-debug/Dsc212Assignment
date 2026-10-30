@@ -1,2 +1,6 @@
-# Dsc212Assignment
-The project demonstrates how spectral methods can be used for recursive community detection and how network centrality and clustering measures change as a graph is partitioned. Combining graph visualization with metric tracking provides insight into both global network structure and local community organization
+# objective of the dsc212 assignment 
+Detect communities using spectral modularity partitioning.
+Visualize the network at each partitioning stage.
+Calculate degree centrality, betweenness centrality, closeness centrality, and clustering coefficient.
+Plot the evolution of these metrics across iterations.
+Interpret the role of central nodes and the effect of community structure.
