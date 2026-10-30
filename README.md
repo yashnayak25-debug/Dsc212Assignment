@@ -1,4 +1,4 @@
-# objective of the dsc212 assignment 
+# Objective of the DSc212 assignment 
 1)Detect communities using spectral modularity partitioning.
 2)Visualize the network at each partitioning stage.
 3)Calculate degree centrality, betweenness centrality, closeness centrality, and clustering coefficient.
